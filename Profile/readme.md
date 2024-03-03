@@ -1,67 +1,34 @@
-<p align="center">
-  <a href="https://schoolrate.hosterfy.fr">
-    <img src="https://cdn.discordapp.com/attachments/1200187165141913622/1213936840147476530/schoolrate-header.jpg?ex=65f749c8&is=65e4d4c8&hm=2c9cc2dea4941e47b85ef28c72adc0f2f92bfd7f8595277e57371296cd9c07f4&" height="600px">
-  </a>
-</p>
+![Repository header](docs/img/schoolrate-header.jpg)
 
-&nbsp;
+# SchoolRate for iOS, macOS and visionOS
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-153-orange.svg?style=flat-square)](#contributors-)
-[![CircleCI](https://circleci.com/gh/codesandbox/codesandbox-client.svg?style=svg)](https://circleci.com/gh/codesandbox/codesandbox-client)
-[![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=cVJuczlJWUtqWXhIbFN1ZjVQekF4NzNsd3phNEZRaGlWU0pHYVVkdGRFWT0tLXFtTVhaOWRySmN0ZG5QVDNDQ0g5Z0E9PQ==--79fe3eae4f149a400d396c9b12d3988f685785cf)](https://www.browserstack.com/automate/public-build/cVJuczlJWUtqWXhIbFN1ZjVQekF4NzNsd3phNEZRaGlWU0pHYVVkdGRFWT0tLXFtTVhaOWRySmN0ZG5QVDNDQ0g5Z0E9PQ==--79fe3eae4f149a400d396c9b12d3988f685785cf)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
-[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
+SchoolRate is a groundbreaking school rating application crafted with students in mind, providing an intuitive platform across various devices and operating systems. Developed by students themselves, this app offers a user-friendly interface paired with powerful features, ensuring a seamless experience for anyone seeking insights into educational institutions. SchoolRate is your go-to source for transparent and comprehensive school ratings, providing valuable information in a visually appealing and easily accessible manner.
 
-An instantly ready, full-featured online IDE for web development on any device
-with a browser. Enabling you to start new projects quickly and prototype
-rapidly. With CodeSandbox, you can create web apps, experiment with code, test
-ideas, and share creations easily.
+> [!NOTE]
+> SchoolRate is currently in development and not yet ready for production use. You are welcome to test the [latest alpha/dev build](https://github.com/SchoolRate/SchoolRate/releases/latest) at your own risk. We welcome feedback [here](https://github.com/SchoolRate/SchoolRate/issues).
 
-## Other CodeSandbox repositories
+## Motivation
 
-CodeSandbox consists of several separate servers, some of which are open
-sourced.
+## Mission
 
-- Client: the web application
-- Server: the [Phoenix](https://github.com/phoenixframework/phoenix) API server
-- Nginx: Nginx config files
-- [Git Extractor](https://github.com/codesandbox/codesandbox-importers):
-  responsible for extracting the source from a GitHub repository
-- [CLI](https://github.com/codesandbox/codesandbox-importers/tree/master/packages/cli):
-  the CLI to upload a CodeSandbox project from your command line
+## Features
 
-## Documentation
+<!--
+## Pricing
+-->
 
-You can find our documentation on our
-[website](https://codesandbox.io/docs/learn/introduction/overview)
+## Contributing
+Be part of the next revolution in school rating by contributing to SchoolRate. This is a community-led effort, so we welcome as many contributors who can help. Read the [Contribution Guide](COUNTRIBUTING.md) for more information.
 
-## Contributors ✨
+This project spans [multiple repositories]() so instead of browsing issues in the issues tab, it may be helpful to find an issue to get started on in our [project board]().
 
-Thanks goes to these wonderful people
-([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
+For issues we want to focus on that are most relevant at any given time, please see the issues scoped to our current iteration [here]().
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://ivesvh.com"><img src="https://avatars0.githubusercontent.com/u/587016?v=3?s=100" width="100px;" alt="Ives van Hoorne"/><br /><sub><b>Ives van Hoorne</b></sub></a><br /><a href="#question-CompuIves" title="Answering Questions">💬</a> <a href="#blog-CompuIves" title="Blogposts">📝</a> <a href="https://github.com/codesandbox/codesandbox-client/issues?q=author%3ACompuIves" title="Bug reports">🐛</a> <a href="https://github.com/codesandbox/codesandbox-client/commits?author=CompuIves" title="Code">💻</a> <a href="#design-CompuIves" title="Design">🎨</a> <a href="https://github.com/codesandbox/codesandbox-client/commits?author=CompuIves" title="Documentation">📖</a> <a href="#example-CompuIves" title="Examples">💡</a> <a href="#infra-CompuIves" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/codesandbox/codesandbox-client/pulls?q=is%3Apr+reviewed-by%3ACompuIves" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/codesandbox/codesandbox-client/commits?author=CompuIves" title="Tests">⚠️</a> <a href="#tool-CompuIves" title="Tools">🔧</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://donavon.com"><img src="https://avatars0.githubusercontent.com/u/887639?v=3?s=100" width="100px;" alt="Donavon West"/><br /><sub><b>Donavon West</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=donavon" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.jeffallen.io/"><img src="https://avatars0.githubusercontent.com/u/5266810?v=3?s=100" width="100px;" alt="Jeff Allen"/><br /><sub><b>Jeff Allen</b></sub></a><br /><a href="https://github.com/codesandbox/codesandbox-client/commits?author=vueu" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-</table>
+## License
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+## Support Us
+Your support is valuable to us and helps us dedicate more time to enhancing and maintaining this repository. Here's how you can contribute:
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+**⭐️ Leave a Star**: If you find this repository useful or interesting, please consider leaving a star on GitHub. Your stars help us gain visibility and encourage others in the community to discover and benefit from this work.
 
-## Thanks
-
-<a href="https://www.chromaticqa.com/"><img src="https://cdn-images-1.medium.com/letterbox/147/36/50/50/1*oHHjTjInDOBxIuYHDY2gFA.png?source=logoAvatar-d7276495b101---37816ec27d7a" width="120"/></a>
-
-Thanks to [Chromatic](https://www.chromaticqa.com/) for providing the visual
-testing platform that helps us catch unexpected changes.
+**📲 Share with Friends:** If you like the idea behind this project, please share it with your friends, colleagues, or anyone who might find it valuable.
