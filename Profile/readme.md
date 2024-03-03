@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://schoolrate.hosterfy.fr">
-    <img src="https://cdn.discordapp.com/attachments/1200187165141913622/1213936840147476530/schoolrate-header.jpg?ex=65f749c8&is=65e4d4c8&hm=2c9cc2dea4941e47b85ef28c72adc0f2f92bfd7f8595277e57371296cd9c07f4&" height="300px">
+    <img src="https://cdn.discordapp.com/attachments/1200187165141913622/1213936840147476530/schoolrate-header.jpg?ex=65f749c8&is=65e4d4c8&hm=2c9cc2dea4941e47b85ef28c72adc0f2f92bfd7f8595277e57371296cd9c07f4&" height="600px">
   </a>
 </p>
 
