@@ -21,16 +21,9 @@
 - [@kwikysw](https://github.com/kwikysw)
 - [@N3v1](https://github.com/N3v1)
 
-## 🛠️ Tech Stack
+## 📷 Beta Test ...
 
-**Client:** Swift, HTML, CSS, JS
-
-**Server:** Swift, PHP
-
-
-## 📷 Demo
-
-Soon...
+[Soon...](https://schoolrate.org/beta)
 
 
 ## 🖥️ License
